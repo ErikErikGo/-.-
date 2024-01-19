@@ -1,2 +1,2 @@
 # -.-
-New Concept English 新概念英语(写作). （母语教师修订）
+New Concept English 新概念英语(写作). 母语教师修订,加上 ChatGPT 修订版
